@@ -1,5 +1,4 @@
 # Lab 2 - Exercise 1: Round array elements to nearest multiple of 4
-# Target Architecture: MIPS32 (MARS Simulator)
 
 .data
     array:      .space 20                   # Space for 5 integers (5 * 4 bytes)
